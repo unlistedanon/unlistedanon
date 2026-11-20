@@ -40,13 +40,24 @@ I turn unconventional ideas into working software, from reproducible market rese
 <p><sub>Integrity checks do not prove underlying actions. Public write APIs need hardening.</sub></p>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<h3><a href="https://github.com/unlistedanon/jeet-analyzer-colosseum">🔎 Jeet Analyzer — Solana Wallet Forensics</a></h3>
+<p><b>Follow the evidence. Separate a sell from a real exit.</b></p>
+<p>Read-only Solana wallet-flow investigation with bounded relationships, current holdings checks, transparent evidence coverage, and an offline flagship replay anyone can inspect.</p>
+<p><b>Public source for evaluation only · Proprietary license</b></p>
+<a href="https://github.com/unlistedanon/jeet-analyzer-colosseum#install-and-replay-offline">Try the offline demo</a> ·
+<a href="https://github.com/unlistedanon/jeet-analyzer-colosseum/blob/main/REVIEWER_START_HERE.md">Reviewer guide</a> ·
+<a href="https://github.com/unlistedanon/jeet-analyzer-colosseum/pull/2">Visual refresh PR</a>
+<p><sub>Not open source. No live service, wallet ownership, or exhaustive history claim.</sub></p>
+</td>
+</tr>
 </table>
 
 ### More from the workshop
 
 | Project | What it demonstrates | Availability |
 | :-- | :-- | :-- |
-| [Jeet Analyzer Colosseum](https://github.com/unlistedanon/jeet-analyzer-colosseum) | Solana wallet-flow forensics | Public **evaluation-only / proprietary** source; [showcase PR](https://github.com/unlistedanon/jeet-analyzer-colosseum/pull/2) |
 | [JOSH Prize Vault](https://github.com/unlistedanon/josh-prize-vault-public-audit) | Prize-vault review artifacts | Public source snapshot, **not** an independent security audit |
 | [Consciousness Research](https://github.com/unlistedanon/Consciousness-Research) | Exploratory research questions | Public drafts, not established scientific findings |
 | **ForgeFish** | Local browser-agent prototype | Public release and on-device validation pending |
