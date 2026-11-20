@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/unlistedanon/degen-bot-lab/release/1337-gang-2026-11-19/assets/1337-gang-storefront.svg" width="100%" alt="1337 Gang builders arsenal: Degen Bot Lab, ProofLayer, Jeet Analyzer and ForgeFish">
+  <img src="assets/1337-gang-storefront.svg" width="100%" alt="1337 Gang builders arsenal: Degen Bot Lab, ProofLayer, Jeet Analyzer and ForgeFish">
 </p>
 
 <h1 align="center">1337 GANG</h1>
